@@ -170,7 +170,7 @@ footer {
     font-family: 'Poppins', sans-serif;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
 
     body {
         width: 100%;
