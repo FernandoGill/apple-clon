@@ -177,7 +177,7 @@ footer {
     }
 
     header {
-        height: 10rem;
+        height: 7rem;
     }
 
     header img{
@@ -189,7 +189,7 @@ footer {
     }
 
     .unicef {
-        height: 10rem;
+        height: 6rem;
     }
 
     .unicef a {
@@ -211,12 +211,12 @@ footer {
      
     .iphone h2 {
         text-align: center;
-        font-size: 6rem;
+        font-size: 5rem;
         margin-top: 10rem;
     }
 
     .iphone p {
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
     }
 
@@ -229,12 +229,13 @@ footer {
     }
 
     .watch h2 {
-        font-size: 6rem;
+        font-size: 5rem;
         text-align: center;
     }
 
     .watch p {
-        font-size: 3rem;
+        font-size: 2rem;
+        text-align: center;
     }
 
     .watch a {
@@ -252,16 +253,17 @@ footer {
 
 
     .mac h2 {
-        font-size: 6rem;
+        font-size: 5rem;
         text-align: center;
     }
 
     .mac p {
-        font-size: 3rem;
+        font-size: 2rem;
+        text-align: center;
     }
 
     .mac a {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .mac img {
